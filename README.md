@@ -1,1 +1,1 @@
-# Ragslearn
+# Instructions to be followed
